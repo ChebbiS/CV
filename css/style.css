@@ -40,7 +40,7 @@
 
 .profil
 {
-    background: url("/css/image5.jpg");
+    background: url("../css/image5.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center;
@@ -72,7 +72,7 @@
 }
 body {
     padding: 2vh;
-    background: url("/css/image5.jpg");
+    background: url("../css/image5.jpg");
     background-attachment: fixed;
     background-size: 100% auto;
 }
@@ -122,7 +122,7 @@ display: flex;
 }
 .btn-primary
 {
-    background: url("/css/image5.jpg");
+    background: url("../css/image5.jpg");
     background-size: 100% auto;
     box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
     border-color: #C0C0C0;
